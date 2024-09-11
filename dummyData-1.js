@@ -160,3 +160,12 @@ db.products.insertMany([
     quantity: 10
   }
 ]);
+
+db.orders.insertOne({
+  "user_id" = 1,
+  "cart_items" = [
+    "1",
+    "2",
+    "3"
+  ]
+})
