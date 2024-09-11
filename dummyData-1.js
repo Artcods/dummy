@@ -4,7 +4,7 @@ db.products.insertMany([
     name: 'Product 1',
     price: 100000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
-    image: img/Photo 1.jpg,
+    image: 'img/Photo 1.jpg',
     quantity: 10
   },
   {
@@ -12,7 +12,7 @@ db.products.insertMany([
     name: 'Product 2',
     price: 200000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
-    image: img/Photo 2.jpg,
+    image: 'img/Photo 2.jpg',
     quantity: 5
   },
   {
@@ -20,7 +20,7 @@ db.products.insertMany([
     name: 'Product 3',
     price: 300000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
-    image: img/Photo 3.jpg,
+    image: 'img/Photo 3.jpg',
     quantity: 3
   },
   {
@@ -28,7 +28,7 @@ db.products.insertMany([
     name: 'Product 4',
     price: 400000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
-    image: img/Photo 4.jpg,
+    image: 'img/Photo 4.jpg',
     quantity: 15
   },
   {
@@ -36,7 +36,7 @@ db.products.insertMany([
     name: 'Product 5',
     price: 500000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
-    image: img/Photo 5.jpg,
+    image: 'img/Photo 5.jpg',
     quantity: 7
   },
   {
@@ -44,7 +44,7 @@ db.products.insertMany([
     name: 'Product 6',
     price: 600000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
-    image: img/Photo 6.jpg,
+    image: 'img/Photo 6.jpg',
     quantity: 12
   },
   {
@@ -52,7 +52,7 @@ db.products.insertMany([
     name: 'Product 7',
     price: 700000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
-    image: img/Photo 7.jpg,
+    image: 'img/Photo 7.jpg',
     quantity: 8
   },
   {
@@ -60,7 +60,7 @@ db.products.insertMany([
     name: 'Product 8',
     price: 800000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
-    image: img/Photo 8.jpg,
+    image: 'img/Photo 8.jpg',
     quantity: 13
   },
   {
@@ -68,7 +68,7 @@ db.products.insertMany([
     name: 'Product 9',
     price: 900000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
-    image: img/Photo 9.jpg,
+    image: 'img/Photo 9.jpg',
     quantity: 6
   },
   {
@@ -76,7 +76,7 @@ db.products.insertMany([
     name: 'Product 10',
     price: 1000000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
-    image: img/Photo 10.jpg,
+    image: 'img/Photo 10.jpg',
     quantity: 4
   },
   {
@@ -84,7 +84,7 @@ db.products.insertMany([
     name: 'Product 11',
     price: 1100000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
-    image: img/Photo 11.jpg,
+    image: 'img/Photo 11.jpg',
     quantity: 9
   },
   {
@@ -92,7 +92,7 @@ db.products.insertMany([
     name: 'Product 12',
     price: 1200000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
-    image: img/Photo 12.jpg,
+    image: 'img/Photo 12.jpg',
     quantity: 11
   },
   {
@@ -100,7 +100,7 @@ db.products.insertMany([
     name: 'Product 13',
     price: 1300000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
-    image: img/Photo 13.jpg,
+    image: 'img/Photo 13.jpg',
     quantity: 14
   },
   {
@@ -108,7 +108,7 @@ db.products.insertMany([
     name: 'Product 14',
     price: 1400000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
-    image: img/Photo 14.jpg,
+    image: 'img/Photo 14.jpg',
     quantity: 16
   },
   {
@@ -116,7 +116,7 @@ db.products.insertMany([
     name: 'Product 15',
     price: 1500000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
-    image: img/Photo 15.jpg,
+    image: 'img/Photo 15.jpg',
     quantity: 20
   },
   {
@@ -124,7 +124,7 @@ db.products.insertMany([
     name: 'Product 16',
     price: 1600000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
-    image: img/Photo 16.jpg,
+    image: 'img/Photo 16.jpg',
     quantity: 18
   },
   {
@@ -132,7 +132,7 @@ db.products.insertMany([
     name: 'Product 17',
     price: 1700000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
-    image: img/Photo 17.jpg,
+    image: 'img/Photo 17.jpg',
     quantity: 19
   },
   {
@@ -140,7 +140,7 @@ db.products.insertMany([
     name: 'Product 18',
     price: 1800000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
-    image: img/Photo 18.jpg,
+    image: 'img/Photo 18.jpg',
     quantity: 2
   },
   {
@@ -148,7 +148,7 @@ db.products.insertMany([
     name: 'Product 19',
     price: 1900000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
-    image: img/Photo 19.jpg,
+    image: 'img/Photo 19.jpg',
     quantity: 17
   },
   {
@@ -156,7 +156,7 @@ db.products.insertMany([
     name: 'Product 20',
     price: 2000000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
-    image: img/Photo 20.jpg,
+    image: 'img/Photo 20.jpg',
     quantity: 10
   }
 ]);
