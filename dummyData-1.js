@@ -1,6 +1,6 @@
 db.products.insertMany([
   {
-    id: 1,
+    code: 1,
     name: 'Product 1',
     price: 100000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
@@ -8,7 +8,7 @@ db.products.insertMany([
     quantity: 10
   },
   {
-    id: 2,
+    code: 2,
     name: 'Product 2',
     price: 200000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
@@ -16,7 +16,7 @@ db.products.insertMany([
     quantity: 5
   },
   {
-    id: 3,
+    code: 3,
     name: 'Product 3',
     price: 300000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
@@ -24,7 +24,7 @@ db.products.insertMany([
     quantity: 3
   },
   {
-    id: 4,
+    code: 4,
     name: 'Product 4',
     price: 400000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
@@ -32,7 +32,7 @@ db.products.insertMany([
     quantity: 15
   },
   {
-    id: 5,
+    code: 5,
     name: 'Product 5',
     price: 500000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
@@ -40,7 +40,7 @@ db.products.insertMany([
     quantity: 7
   },
   {
-    id: 6,
+    code: 6,
     name: 'Product 6',
     price: 600000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
@@ -48,7 +48,7 @@ db.products.insertMany([
     quantity: 12
   },
   {
-    id: 7,
+    code: 7,
     name: 'Product 7',
     price: 700000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
@@ -56,7 +56,7 @@ db.products.insertMany([
     quantity: 8
   },
   {
-    id: 8,
+    code: 8,
     name: 'Product 8',
     price: 800000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
@@ -64,7 +64,7 @@ db.products.insertMany([
     quantity: 13
   },
   {
-    id: 9,
+    code: 9,
     name: 'Product 9',
     price: 900000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
@@ -72,7 +72,7 @@ db.products.insertMany([
     quantity: 6
   },
   {
-    id: 10,
+    code: 10,
     name: 'Product 10',
     price: 1000000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
@@ -80,7 +80,7 @@ db.products.insertMany([
     quantity: 4
   },
   {
-    id: 11,
+    code: 11,
     name: 'Product 11',
     price: 1100000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
@@ -88,7 +88,7 @@ db.products.insertMany([
     quantity: 9
   },
   {
-    id: 12,
+    code: 12,
     name: 'Product 12',
     price: 1200000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
@@ -96,7 +96,7 @@ db.products.insertMany([
     quantity: 11
   },
   {
-    id: 13,
+    code: 13,
     name: 'Product 13',
     price: 1300000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
@@ -104,7 +104,7 @@ db.products.insertMany([
     quantity: 14
   },
   {
-    id: 14,
+    code: 14,
     name: 'Product 14',
     price: 1400000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
@@ -112,7 +112,7 @@ db.products.insertMany([
     quantity: 16
   },
   {
-    id: 15,
+    code: 15,
     name: 'Product 15',
     price: 1500000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
@@ -120,7 +120,7 @@ db.products.insertMany([
     quantity: 20
   },
   {
-    id: 16,
+    code: 16,
     name: 'Product 16',
     price: 1600000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
@@ -128,7 +128,7 @@ db.products.insertMany([
     quantity: 18
   },
   {
-    id: 17,
+    code: 17,
     name: 'Product 17',
     price: 1700000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
@@ -136,7 +136,7 @@ db.products.insertMany([
     quantity: 19
   },
   {
-    id: 18,
+    code: 18,
     name: 'Product 18',
     price: 1800000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
@@ -144,7 +144,7 @@ db.products.insertMany([
     quantity: 2
   },
   {
-    id: 19,
+    code: 19,
     name: 'Product 19',
     price: 1900000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
@@ -152,7 +152,7 @@ db.products.insertMany([
     quantity: 17
   },
   {
-    id: 20,
+    code: 20,
     name: 'Product 20',
     price: 2000000,
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facere repudiandae rerum',
