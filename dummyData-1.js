@@ -162,8 +162,8 @@ db.products.insertMany([
 ]);
 
 db.orders.insertOne({
-  "user_id" = 1,
-  "cart_items" = [
+  "user_id" : 1,
+  "cart_items" : [
     "1",
     "2",
     "3"
